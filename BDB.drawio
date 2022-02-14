@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T15:21:25.082Z" agent="5.0 (Windows)" etag="g9gV3o_9Fw9gzOfyhtMh" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T15:54:02.133Z" agent="5.0 (Windows)" etag="dVb5LHJhMjA2fZ3lmDC9" version="16.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-5" value="NVAO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="-20" width="710" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-0" value="&lt;div&gt;Kwaliteitszorg&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="-310" y="240" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-1" target="s5pqpI4zIyqzlfYDUBWL-3">
           <mxGeometry relative="1" as="geometry" />
@@ -30,11 +33,81 @@
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-3" value="Continue Verbetering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s5pqpI4zIyqzlfYDUBWL-5" value="NVAO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="20" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-17" value="- Niveau volgens NLQF&#xa;- Toetsing wettelijk deugdelijk&#xa;- Vaardigheden realiseerbaar&#xa;- Leerresultaten te behalen&#xa;- Vaardigheden en leerresultaten aantoonbaar&#xa;- Docenten gekwalificeerd&#xa;- Huisvesting adequaat&#xa;- Studiebegeleiding naar behoefte&#xa;- Kwaliteitszorg en -cultuur&#xa;&#xa;&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="140" width="260" height="130" as="geometry" />
+          <mxGeometry x="140" y="140" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-18" target="s5pqpI4zIyqzlfYDUBWL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-18" value="Internationaal draagvlak" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="490" width="430" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-19" value="EQF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-20" target="s5pqpI4zIyqzlfYDUBWL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-20" target="s5pqpI4zIyqzlfYDUBWL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-20" target="s5pqpI4zIyqzlfYDUBWL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-20" target="s5pqpI4zIyqzlfYDUBWL-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="730" />
+              <mxPoint x="380" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-20" value="Dublin descriptoren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-22" value="e-CF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-250" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-23" value="Wetenschappelijke discipline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-25" value="Socio-ethische betrokkenheid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-200" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-27" value="Zelfstandig ontwikkelingsbegrip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-350" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-29" target="s5pqpI4zIyqzlfYDUBWL-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="730" />
+              <mxPoint x="380" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-29" value="&lt;div&gt;Domeindimensies HBO-ICT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="490" width="446" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.445;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-30" target="s5pqpI4zIyqzlfYDUBWL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-30" value="Activiteiten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-37" value="Niveau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-38" value="Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-39" value="- Beheren&#xa;- Analyseren&#xa;- Adviseren&#xa;- Ontwerpen&#xa;- Realiseren&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="410" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-44" value="&lt;div&gt;BOKS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="810" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-42" value="Beroepstaken/BOKS" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
