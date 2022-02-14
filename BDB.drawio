@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T15:54:02.133Z" agent="5.0 (Windows)" etag="dVb5LHJhMjA2fZ3lmDC9" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T16:42:19.812Z" agent="5.0 (Windows)" etag="HFcLqHr5SvmY1fKj58TG" version="16.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,21 @@
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-27" value="Zelfstandig ontwikkelingsbegrip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-350" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-29" value="&lt;div&gt;Domeindimensies HBO-ICT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="490" width="446" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-30" target="s5pqpI4zIyqzlfYDUBWL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-30" value="Activiteiten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-44" value="&lt;div&gt;BOKS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="810" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-37" value="Niveau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-29" target="s5pqpI4zIyqzlfYDUBWL-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -85,29 +100,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s5pqpI4zIyqzlfYDUBWL-29" value="&lt;div&gt;Domeindimensies HBO-ICT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="490" width="446" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="s5pqpI4zIyqzlfYDUBWL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.445;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-30" target="s5pqpI4zIyqzlfYDUBWL-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s5pqpI4zIyqzlfYDUBWL-30" value="Activiteiten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s5pqpI4zIyqzlfYDUBWL-37" value="Niveau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-38" value="Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-39" value="- Beheren&#xa;- Analyseren&#xa;- Adviseren&#xa;- Ontwerpen&#xa;- Realiseren&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="410" width="80" height="70" as="geometry" />
+          <mxGeometry x="580" y="520" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="s5pqpI4zIyqzlfYDUBWL-44" value="&lt;div&gt;BOKS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="810" width="400" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="s5pqpI4zIyqzlfYDUBWL-42" value="Beroepstaken/BOKS" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-42" value="Beroepstaken" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5pqpI4zIyqzlfYDUBWL-50" value="Competentieprofielen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="930" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
