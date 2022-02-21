@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T17:53:11.114Z" agent="5.0 (Windows)" etag="hD50HRDHfs42hMNz1dWN" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T09:03:37.123Z" agent="5.0 (Windows)" etag="jw2TT45axhBwnMqw_7wd" version="16.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2500" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -39,7 +39,7 @@
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-18" value="Internationaal draagvlak" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-270" y="490" width="430" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-19" target="sh0ZQArDtNu7Vn9sufE--0">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-19" target="sh0ZQArDtNu7Vn9sufE--0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-50" y="470" />
@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-19" target="sh0ZQArDtNu7Vn9sufE--6">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-19" target="sh0ZQArDtNu7Vn9sufE--6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-50" y="470" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-19" target="sh0ZQArDtNu7Vn9sufE--5">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s5pqpI4zIyqzlfYDUBWL-19" target="sh0ZQArDtNu7Vn9sufE--5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-50" y="510" />
@@ -133,19 +133,19 @@
         <mxCell id="s5pqpI4zIyqzlfYDUBWL-50" value="Competentieprofielen" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="930" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--0" value="Knowledge" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--0" value="Knowledge" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-260" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--5" value="Skills" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--5" value="Skills" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-115" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--6" value="Responsibility &amp;amp; Autonomy" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--6" value="Responsibility &amp;amp; Autonomy" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--9" value="EHEA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--9" value="EHEA" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-790" y="480" width="470" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="sh0ZQArDtNu7Vn9sufE--18" value="- ondersteun toegankelijkheid van al het personeel en studenten&#xa;- bereid studenten voor op hun toekomstige carriere &#xa;- bereide studenten voor op actieve deelname aan de maatschappij&#xa;- draag bij aan hun persoonlijke ontwikkeling&#xa;- biedt studenten brede toegang van hoogwaardige studies&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sh0ZQArDtNu7Vn9sufE--18" value="- ondersteun toegankelijkheid van al het personeel en studenten&#xa;- bereid studenten voor op hun toekomstige carriere &#xa;- bereide studenten voor op actieve deelname aan de maatschappij&#xa;- draag bij aan hun persoonlijke ontwikkeling&#xa;- biedt studenten brede toegang van hoogwaardige studies&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-732.5" y="610" width="405" height="130" as="geometry" />
         </mxCell>
       </root>
