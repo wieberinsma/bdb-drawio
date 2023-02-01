@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T08:24:09.360Z" agent="5.0 (Windows)" etag="yYibY_eicG8_pq4jrSjW" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T08:24:22.531Z" agent="5.0 (Windows)" etag="ufPGnNeDBqaRcqe78eBL" version="20.8.14" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="819" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;Succes is geen garantie op geluk&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;Sociale cohesie&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="150" width="110" height="60" as="geometry" />
+          <mxGeometry x="303.5" y="150" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="260" width="120" height="40" as="geometry" />
